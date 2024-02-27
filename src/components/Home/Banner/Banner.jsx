@@ -32,7 +32,7 @@ const Banner = () => {
           </div>
           <div className="stat flex">
             <div className="stat-value">3</div>
-            <div className="stat-desc text-xl"><span className="text-xl text-black">день </span> <br /> диагностика</div>
+            <div className="stat-desc text-xl"><span className="text-xl text-black">день1 </span> <br /> диагностика</div>
           </div>
         </div>
       </div>
